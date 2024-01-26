@@ -1,0 +1,9 @@
+#Requirements.txt
+soundfile
+mne
+pandas
+numpy
+matplotlib
+scipy
+pygame
+scipy
