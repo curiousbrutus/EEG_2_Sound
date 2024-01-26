@@ -6,14 +6,17 @@ This project aims to transform EEG (electroencephalogram) data into a musical ex
 Getting Started
 To install the required packages, run:
 
-bash
-Copy code
+------
 pip install -r requirements.txt
+------
+
+
 To generate music from EEG data, execute:
 
-bash
-Copy code
+---------
 python eeg_to_music.py
+---------
+
 Custom Chords
 Feel free to write your own chords to generate new and unique sounds. The mapping of EEG data to musical elements allows for creative exploration.
 
