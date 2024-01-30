@@ -1,0 +1,10 @@
+# install.txt
+
+# You can install the dependencies using the following commands:
+# Replace 'pip' with 'pip3' if you're using Python 3.
+
+# Required packages
+pip install tk
+pip install numpy
+pip install scipy
+pip install sonecULES
